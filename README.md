@@ -1,6 +1,7 @@
 # Portfolio Building
 
 Hello! I am Yashmitha S, a Computer Science and Engineering student. This repository serves as my engineering portfolio for B25CS0311, documenting my development setup, version control practice, algorithmic solutions, and collaborative projects.
+**Skill:** Learning C, C++, and Python development.
 
 # Activity 1: C/C++ Development Environment Setup
 

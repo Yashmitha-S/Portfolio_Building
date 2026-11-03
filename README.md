@@ -5,6 +5,15 @@ Hello! I am Yashmitha S, a Computer Science and Engineering student. This reposi
 **Interest:** Interested in cloud computing and software development.
 **Goal:** Contribute to open-source projects and build a strong engineering portfolio.
 
+
+## 🚀 Current Learning Path
+
+As part of my software engineering coursework (**B25CS0311**), I am actively expanding my practical development skill set across several core domains:
+
+* **Version Control & Collaboration:** Mastering Git workflows including branching strategies, pull requests, code reviews, and automated deployment via GitHub Pages.
+* **Systems Programming:** Building foundational knowledge in C and C++ development, compiler toolchains (Apple Clang/GCC), and memory management.
+* **Developer Workflows:** Leveraging Visual Studio Code tools, linting with Prettier, real-time peer co-coding with Live Share, and history tracking with GitLens to improve productivity.
+
 # Activity 1: C/C++ Development Environment Setup
 
 ## Objective

@@ -37,3 +37,10 @@ To configure a C development environment using Visual Studio Code and execute a 
 
 ## Result
 The C development environment was successfully configured, and the Hello World program executed successfully.
+## Projects
+
+### ECO
+Developing an e-commerce platform using modern web technologies.
+
+### Portfolio Website
+Building a personal portfolio to showcase my skills, projects, and academic journey.

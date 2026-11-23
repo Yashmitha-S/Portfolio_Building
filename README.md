@@ -44,3 +44,9 @@ Developing an e-commerce platform using modern web technologies.
 
 ### Portfolio Website
 Building a personal portfolio to showcase my skills, projects, and academic journey.
+## Collaboration Log
+
+- Partner Name: Tejaswini S
+- GitHub Username: Tejaswinis68
+- Work Completed: Collaboratively added a `greet()` function to the C program using VS Code Live Share.
+- Learning: Learned to inspect commit history and line-by-line code authorship using GitLens.
